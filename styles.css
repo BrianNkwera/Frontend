@@ -1,0 +1,49 @@
+.container{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+
+footer{
+    background: #023047;
+    height: 50px;
+    bottom: 0;
+    position: fixed; 
+    z-index: 1;
+}
+
+/* Rectangle 11 */
+
+.home-button{
+    background: #023047;
+    color: white;
+    border-radius: 20px;
+    width: 201px;
+    height: 62.76px;
+   
+}
+
+.home-container{
+    margin-top: 7.67%;
+    font-weight: 400;
+    font-size: 32.8px;
+    line-height: 48px;
+
+    
+}
+
+p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
