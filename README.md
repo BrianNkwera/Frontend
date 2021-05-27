@@ -7,5 +7,5 @@ Front end for class UNIHUB project
 
 
 ### Screenshots
-<img src="./screenshots/1.png" width="200">
+<img src="./screenshots/login.png" width="200">
 
