@@ -2,8 +2,8 @@
 Front end for class UNIHUB project 
 
 ## How to use
-* Clone the repo ```git clone https://github.com/CS-Project-UDSM/UrbanApp.git``` <br>
-*Open HTML files
+* Clone the repo ```git clone https://github.com/CS-Project-UDSM/UrbanApp.git```
+* Open HTML files
 
 
 ### Screenshots
