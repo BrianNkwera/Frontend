@@ -1,1 +1,1 @@
-"# Team ya Rwirwiiii 🌚" 
+Team ya Rwirwiiii 🌚
