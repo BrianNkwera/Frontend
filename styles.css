@@ -1,49 +1,68 @@
-.container{
-
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
 }
-
 
 footer{
     background: #023047;
-    height: 50px;
+    height: 4rem;
     bottom: 0;
-    position: fixed; 
+    position: fixed;
     z-index: 1;
 }
-
-/* Rectangle 11 */
 
 .home-button{
     background: #023047;
     color: white;
-    border-radius: 20px;
-    width: 201px;
-    height: 62.76px;
+    border-radius: 1.25rem;
+    width: 12.5rem;
+    height: 3.9rem;
    
 }
 
 .home-container{
-    margin-top: 7.67%;
+    margin-bottom: 5%;
     font-weight: 400;
-    font-size: 32.8px;
-    line-height: 48px;
+    font-size: 2.0rem;
+    line-height: 3.0rem;
+    text-align: center;
+   
 
     
 }
 
 p{
     text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    
 }
 
+/*media queries*/
+@media  (max-width: 913px) and (min-width: 768px){
 
+    
+    .home-button{
+        margin-top: 0.75rem;
+        
+    }
+}
 
+@media (max-width:767.5px) and (min-width:481px){
 
+    footer{
+        height: 0;
+    }
 
+    .welcome{
+        margin-bottom: 0.75rem;
+    }
 
+}
 
-
+@media (max-width:480.5px){
+    footer{
+        height: 0;
+    }
+}
 
